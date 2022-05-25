@@ -1,5 +1,5 @@
 Me <- list(
-     name = "Uche",
+     first_name = "Uche",
      last_name = "Kalu",
      profession = "Data Scientist",
      favorite programming language = "R"
