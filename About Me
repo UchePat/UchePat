@@ -2,5 +2,5 @@ Me <- list(
      first_name = "Uche",
      last_name = "Kalu",
      profession = "Data Scientist",
-     favorite programming language = "R"
+     favorite_programming_language = "R"
      )
